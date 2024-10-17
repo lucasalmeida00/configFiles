@@ -197,6 +197,6 @@
   "php.suggest.basic": false,
   "editor.suggest.localityBonus": true,
   "[php]": {
-    "editor.inlayHints.enabled": "off",
-  },
+    "editor.inlayHints.enabled": "off"
+  }
 }
